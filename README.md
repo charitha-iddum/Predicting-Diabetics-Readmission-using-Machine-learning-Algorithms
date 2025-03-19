@@ -21,7 +21,7 @@ For the final project for Module 5, we have chosen a binary classification proje
 ### Objectives
 Hospital readmissions are associated with unfavorable patient outcomes and high financial costs.
 
-- **Medicare Payment Advisory Commission (MedPAC)** reported that in 2005:
+- **Medicare Payment Advisory Commission (MedPAC)** :
   - 17.6% of hospital admissions resulted in readmissions within 30 days.
   - 11.3% within 15 days.
   - 6.2% within 7 days.  
@@ -76,8 +76,7 @@ Using the **OSEMN Framework**:
 ---
 
 ## Dataset Information
-**Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)  
-**Data Range:** 1999-2008 (10 years)  
+**Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)    
 **Hospitals:** 130 US hospitals  
 **Number of Instances:** 101,766  
 **Number of Variables:** 50  
