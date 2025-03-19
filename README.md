@@ -4,15 +4,15 @@
 **Student Name:** Charitha Sri Iddum  
 
 ## Deliverables
-### Jupyter Notebooks:
+Jupyter Notebooks:
 - **Data Preprocessing**
 - **Model Evaluation**
 
-### Blog Post:
+Blog Post:
 
-## Executive Summary
+Executive Summary
 ### Introduction
-For the final project for Module 5, we have chosen a binary classification project on predicting 30-day Readmission Risk of patients with Diabetes.
+we have chosen a binary classification project on predicting 30-day Readmission Risk of patients with Diabetes.
 
 ### Objectives
 Hospital readmissions are associated with unfavorable patient outcomes and high financial costs.
