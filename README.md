@@ -3,16 +3,12 @@
 ## Student Information
 **Student Name:** Charitha Sri Iddum  
 
----
-
 ## Deliverables
 ### Jupyter Notebooks:
 - **Data Preprocessing**
 - **Model Evaluation**
 
 ### Blog Post:
-
----
 
 ## Executive Summary
 ### Introduction
