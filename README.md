@@ -73,7 +73,7 @@ Part II of the project includes the Data Modeling, tuning, evaluation, performan
 ### Hospital Readmissions Diabetes Data Set 
 [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
-The dataset represents 10 years (2018 - present) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
+The dataset represents 7 years (2018 - present) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
 
 1. It is an inpatient encounter (a hospital admission)   
 2. It is a diabetic encounter, that is, one during which any kind of diabetes was entered to the system as a diagnosis.
