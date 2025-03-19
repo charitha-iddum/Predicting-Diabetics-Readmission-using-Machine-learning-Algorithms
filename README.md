@@ -38,13 +38,21 @@ A successful predictive model will help the Healthcare Organization:
 ---
 
 ## Data Science Workflow
-Using the **OSEMN Framework**:
+Understanding the typical work flow on how the data science process works is important in business understanding and problem solving. Using the OSEMN Framework the student will go through the different steps of the framework in an iterative and non-linear process.
 1. **Obtain the data** - Understanding the problem and gathering requirements.
 2. **Scrubbing** - Pre-processing (handling nulls, outliers, normalization, feature selection).
 3. **Explore** - Understanding cohort characteristics and impactful predictors.
 4. **Modeling** - Building and tuning the model.
 5. **iNterpret** - Communicating results to stakeholders.
+In this Project, the student will build and test different binary classifier algorithms to predict 30-day hospital readmissions of patients with diabetes, based on the electronic medical records. The models will be tuned to improve accuracies and the model with the best score will be selected to make accurate predictions of data.
+Part I of the project includes the Introduction, data load, data scrubbing thru completion of pre-processing of the final dataframe. Part II of the project includes the Data Modeling, tuning, evaluation, performance metrics and finalization/saving of the model. for later prediction use.
 
+In this project we would like to find the answers to the following questions:
+
+- Who among the hospitalized Diabetic patients are at risk for 30-day hospital readmissions?
+- How can we risk stratify and rank patient/encounters with the highest probability of getting readmitted within 30 days?
+- Which features are important predictors of 30-day readmission in patients with Diabetes?
+- Are HbA1c result, changes in treatment, and glycemic factors significant contributors to readmissions?
 ---
 
 ## Project Breakdown
