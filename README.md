@@ -1,14 +1,12 @@
 
-# Module 5 Final Project - Predicting 30-day Hospital Readmission
+# Predicting Diabetics Readmission using Machine Learning Algorithms
 
-Student name: **Cynthia Pedrasa**  
-Student pace: **self paced**  
-Scheduled project review date/time:  **Monday, Jun 15, 2020 Time: 10:00am-11:00am (EDT)**  
-Instructor name: **Jeff Herman**  
+Student name: **Charitha Sri Iddum**  
+
 Deliverables:
 1. Jupyter Notebooks:  
     a. [Data Preprocessing](https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_1_Data_Preprocessing.ipynb)  
-    b. [Model Evaluation](https://github.com/cynthiapedrasa/predicting-30-day-readmission/blob/master/Part_2_Model_Evaluation.ipynb)  
+    b. [Model Evaluation] 
 
 2. [Blog Post:](https://cpedrasa.github.io/predicting_30-day_hospital_readmisssions)  
 
@@ -17,7 +15,7 @@ Deliverables:
 
 ## Introduction
 
-For the final project for Module 5, we have chosen a binary classification project on predicting 30-day Readmisssion Risk of patients with Diabetes. 
+For the project, we have chosen a binary classification project on predicting 30-day Readmisssion Risk of patients with Diabetes. 
 
 
 ## Objectives
@@ -75,7 +73,7 @@ Part II of the project includes the Data Modeling, tuning, evaluation, performan
 ### Hospital Readmissions Diabetes Data Set 
 [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
-The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
+The dataset represents 10 years (2018 - present) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
 
 1. It is an inpatient encounter (a hospital admission)   
 2. It is a diabetic encounter, that is, one during which any kind of diabetes was entered to the system as a diagnosis.
